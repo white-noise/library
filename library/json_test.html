@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>test</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+	</script>
+</head>
+<body>
+	<h1>
+		library
+	</h1>
+
+	<table>
+	    <tr>
+	    	<th style="width:100px">title</th>
+	        <th style="width:100px">author</th>
+	        <th style="width:100px">date published</th>
+	        <th style="width:500px">description</th>
+	    </tr>
+	</table>
+
+<script>
+$(document).ready(function () {
+    $.getJSON("scrubbed_data.json",
+    function (json) {
+        var tr;
+        for (var i = 0; i < json.length; i++) {
+            tr = $('<tr/>');
+            tr.append("<td>" + json[i].title + "</td>");
+            tr.append("<td>" + json[i].authors + "</td>");
+            tr.append("<td>" + json[i].publishedDate + "</td>");
+            tr.append("<td>" + json[i].description + "</td>");
+            $('table').append(tr);
+        }
+    });
+});
+</script>
+
+</body>
+</html>
