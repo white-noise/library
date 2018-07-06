@@ -14,7 +14,7 @@ isbn_data  = isbn_f.read().split()
 
 json_data_full     = json.loads(raw_json)
 json_data_scrubbed = []
-fields     = ["title", "authors", "publishedDate", "description","industryIdentifiers"]
+fields     = ["title", "authors", "publishedDate", "description","industryIdentifiers", "pageCount", "categories"]
 
 data_f.close()
 isbn_f.close()
@@ -23,7 +23,11 @@ for i in range(len(json_data_full)):
 
 	json_data    = json_data_full[i]
 	current_isbn = isbn_data[i]
+	scrub_data   = {}
 
+	# populate from information in volume_info
+	# change such that default is storing null, not failure
+	# though indicate that a failure has occured
 	try:
 		volume = json_data["items"][0]["volumeInfo"]
 	except KeyError:
@@ -32,7 +36,6 @@ for i in range(len(json_data_full)):
 
 	# only add books to registry that are found to have volume info
 	if not volume == None:
-		scrub_data = {}
 		total_info = True
 		for elem in fields:
 			try:
@@ -40,7 +43,7 @@ for i in range(len(json_data_full)):
 					# takes only the first author
 					scrub_data[elem] = volume[elem][0]
 				elif elem == "industryIdentifiers":
-					# take care of ISBNs
+					# take care of ISBNs (comes in tuple)
 					scrub_data[elem] = volume[elem]
 
 				else:
@@ -69,7 +72,7 @@ for elem in json_data_scrubbed:
 			continue
 
 # turn back into a nice json
-json_return = json.dumps(json_data_scrubbed,indent=4)
+json_return = json.dumps(json_data_scrubbed, indent=4)
 return_f    = open("scrubbed_data.json", "w")
 return_f.write(json_return)
 return_f.close()

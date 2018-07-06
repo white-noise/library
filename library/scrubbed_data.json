@@ -1,5 +1,8 @@
 [
     {
+        "description": "A NATIONAL BOOK CRITICS CIRCLE AWARD WINNER New York Times Book Review 10 Best Books of 2008 Time Magazine's Best Book of 2008 Los Angeles Times Best Books of 2008 San Francisco Chronicle's 50 Best Fiction Books of 2008 Seattle Times Best Books of 2008 New York Magazine Top Ten Books of 2008 Three academics on the trail of a reclusive German author; a New York reporter on his first Mexican assignment; a widowed philosopher; a police detective in love with an elusive older woman--these are among the searchers drawn to the border city of Santa Teresa, where over the course of a decade hundreds of women have disappeared. In the words of The Washington Post, \"With 2666, Roberto Bola\u00f1o joins the ambitious overachievers of the twentieth-century novel, those like Proust, Musil, Joyce, Gaddis, Pynchon, Fuentes, and Vollmann, who push the novel far past its conventional size and scope to encompass an entire era, deploying encyclopedic knowledge and stylistic verve to offer a grand, if sometimes idiosyncratic, summation of their culture and the novelist's place in it. Bola\u00f1o has joined the immortals.\"", 
+        "pageCount": 912, 
+        "publishedDate": "2009-09-01", 
         "industryIdentifiers": [
             {
                 "identifier": "0312429215", 
@@ -10,12 +13,16 @@
                 "type": "ISBN_13"
             }
         ], 
-        "publishedDate": "2009-09-01", 
         "authors": "Roberto Bola\u00f1o", 
-        "description": "A NATIONAL BOOK CRITICS CIRCLE AWARD WINNER New York Times Book Review 10 Best Books of 2008 Time Magazine's Best Book of 2008 Los Angeles Times Best Books of 2008 San Francisco Chronicle's 50 Best Fiction Books of 2008 Seattle Times Best Books of 2008 New York Magazine Top Ten Books of 2008 Three academics on the trail of a reclusive German author; a New York reporter on his first Mexican assignment; a widowed philosopher; a police detective in love with an elusive older woman--these are among the searchers drawn to the border city of Santa Teresa, where over the course of a decade hundreds of women have disappeared. In the words of The Washington Post, \"With 2666, Roberto Bola\u00f1o joins the ambitious overachievers of the twentieth-century novel, those like Proust, Musil, Joyce, Gaddis, Pynchon, Fuentes, and Vollmann, who push the novel far past its conventional size and scope to encompass an entire era, deploying encyclopedic knowledge and stylistic verve to offer a grand, if sometimes idiosyncratic, summation of their culture and the novelist's place in it. Bola\u00f1o has joined the immortals.\"", 
-        "title": "2666"
+        "title": "2666", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "Fourteen short literary experiments intended for perusal in sequence are set in contemporary society and classical Greece", 
+        "pageCount": 203, 
+        "publishedDate": "1988", 
         "industryIdentifiers": [
             {
                 "identifier": "0385240872", 
@@ -26,12 +33,16 @@
                 "type": "ISBN_13"
             }
         ], 
-        "publishedDate": "1988", 
         "authors": "John Barth", 
-        "description": "Fourteen short literary experiments intended for perusal in sequence are set in contemporary society and classical Greece", 
-        "title": "Lost in the Funhouse"
+        "title": "Lost in the Funhouse", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "Presents a satirical drama about Satan's visit to Moscow, where he learns that the citizens no longer believe in God. He decides to teach them a lesson by perpetrating a series of horrific tricks. Combines two distinct yet interwoven parts, one set in contemporary Moscow, the other in ancient Jerusalem.", 
+        "pageCount": 448, 
+        "publishedDate": "2016", 
         "industryIdentifiers": [
             {
                 "identifier": "9780143108276", 
@@ -42,12 +53,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "2016", 
         "authors": "Mikhail Bulgakov", 
-        "description": "Presents a satirical drama about Satan's visit to Moscow, where he learns that the citizens no longer believe in God. He decides to teach them a lesson by perpetrating a series of horrific tricks. Combines two distinct yet interwoven parts, one set in contemporary Moscow, the other in ancient Jerusalem.", 
-        "title": "The Master and Margarita"
+        "title": "The Master and Margarita", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "Essays deal with nihilism and the problem of suicide", 
+        "pageCount": 212, 
+        "publishedDate": "1955", 
         "industryIdentifiers": [
             {
                 "identifier": "9780679733737", 
@@ -58,12 +73,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "1955", 
         "authors": "Albert Camus", 
-        "description": "Essays deal with nihilism and the problem of suicide", 
-        "title": "The Myth of Sisyphus, and Other Essays"
+        "title": "The Myth of Sisyphus, and Other Essays", 
+        "categories": [
+            "Philosophy"
+        ]
     }, 
     {
+        "description": "Jack Gladney, a professor of Nazi history at a Middle American liberal arts school, and his family try to handle normal family life as a black cloud of lethal gaseous fumes threatens their town.", 
+        "pageCount": 310, 
+        "publishedDate": "2009", 
         "industryIdentifiers": [
             {
                 "identifier": "0143105981", 
@@ -74,12 +93,16 @@
                 "type": "ISBN_13"
             }
         ], 
-        "publishedDate": "2009", 
         "authors": "Don DeLillo", 
-        "description": "Jack Gladney, a professor of Nazi history at a Middle American liberal arts school, and his family try to handle normal family life as a black cloud of lethal gaseous fumes threatens their town.", 
-        "title": "White Noise"
+        "title": "White Noise", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "In an expatriate's world of turmoil and danger, American risk analyst James Axton learns of a ritual-murder cult in the Aegean and follows the trail to its secret meanings in the ancient city of Lahore", 
+        "pageCount": 339, 
+        "publishedDate": "1989", 
         "industryIdentifiers": [
             {
                 "identifier": "9780679722953", 
@@ -90,12 +113,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "1989", 
         "authors": "Don DeLillo", 
-        "description": "In an expatriate's world of turmoil and danger, American risk analyst James Axton learns of a ritual-murder cult in the Aegean and follows the trail to its secret meanings in the ancient city of Lahore", 
-        "title": "The Names"
+        "title": "The Names", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "Nobody Owens, known to his friends as Bod, is a normal boy. He would be completely normal if he didn't live in a sprawling graveyard, being raised and educated by ghosts, with a solitary guardian who belongs to neither the world of the living nor of the dead. There are dangers and adventures in the graveyard for a boy-an ancient Indigo Man beneath the hill, a gateway to a desert leading to an abandoned city of ghouls, the strange and terrible menace of the Sleer. But if Bod leaves the graveyard, then he will come under attack from the man Jack\u2014who has already killed Bod's family. . . . Beloved master storyteller Neil Gaiman returns with a luminous new novel for the audience that embraced his New York Times bestselling modern classic Coraline. Magical, terrifying, and filled with breathtaking adventures, the graveyard book is sure to enthrall readers of all ages.", 
+        "pageCount": 320, 
+        "publishedDate": "2008-09-30", 
         "industryIdentifiers": [
             {
                 "identifier": "9780060530921", 
@@ -106,12 +133,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "2008-09-30", 
         "authors": "Neil Gaiman", 
-        "description": "Nobody Owens, known to his friends as Bod, is a normal boy. He would be completely normal if he didn't live in a sprawling graveyard, being raised and educated by ghosts, with a solitary guardian who belongs to neither the world of the living nor of the dead. There are dangers and adventures in the graveyard for a boy-an ancient Indigo Man beneath the hill, a gateway to a desert leading to an abandoned city of ghouls, the strange and terrible menace of the Sleer. But if Bod leaves the graveyard, then he will come under attack from the man Jack\u2014who has already killed Bod's family. . . . Beloved master storyteller Neil Gaiman returns with a luminous new novel for the audience that embraced his New York Times bestselling modern classic Coraline. Magical, terrifying, and filled with breathtaking adventures, the graveyard book is sure to enthrall readers of all ages.", 
-        "title": "The Graveyard Book"
+        "title": "The Graveyard Book", 
+        "categories": [
+            "Juvenile Fiction"
+        ]
     }, 
     {
+        "description": "The storm was coming.... Shadow spent three years in prison, keeping his head down, doing his time. All he wanted was to get back to the loving arms of his wife and to stay out of trouble for the rest of his life. But days before his scheduled release, he learns that his wife has been killed in an accident, and his world becomes a colder place. On the plane ride home to the funeral, Shadow meets a grizzled man who calls himself Mr. Wednesday. A self-styled grifter and rogue, Wednesday offers Shadow a job. And Shadow, a man with nothing to lose, accepts. But working for the enigmatic Wednesday is not without its price, and Shadow soon learns that his role in Wednesday's schemes will be far more dangerous than he ever could have imagined. Entangled in a world of secrets, he embarks on a wild road trip and encounters, among others, the murderous Czernobog, the impish Mr. Nancy, and the beautiful Easter -- all of whom seem to know more about Shadow than he himself does. Shadow will learn that the past does not die, that everyone, including his late wife, had secrets, and that the stakes are higher than anyone could have imagined. All around them a storm of epic proportions threatens to break. Soon Shadow and Wednesday will be swept up into a conflict as old as humanity itself. For beneath the placid surface of everyday life a war is being fought -- and the prize is the very soul of America. As unsettling as it is exhilarating, American Gods is a dark and kaleidoscopic journey deep into myth and across an America at once eerily familiar and utterly alien. Magnificently told, this work of literary magic will haunt the reader far beyond the final page.", 
+        "pageCount": 480, 
+        "publishedDate": "2001-06-19", 
         "industryIdentifiers": [
             {
                 "identifier": "9780380973651", 
@@ -122,12 +153,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "2001-06-19", 
         "authors": "Neil Gaiman", 
-        "description": "The storm was coming.... Shadow spent three years in prison, keeping his head down, doing his time. All he wanted was to get back to the loving arms of his wife and to stay out of trouble for the rest of his life. But days before his scheduled release, he learns that his wife has been killed in an accident, and his world becomes a colder place. On the plane ride home to the funeral, Shadow meets a grizzled man who calls himself Mr. Wednesday. A self-styled grifter and rogue, Wednesday offers Shadow a job. And Shadow, a man with nothing to lose, accepts. But working for the enigmatic Wednesday is not without its price, and Shadow soon learns that his role in Wednesday's schemes will be far more dangerous than he ever could have imagined. Entangled in a world of secrets, he embarks on a wild road trip and encounters, among others, the murderous Czernobog, the impish Mr. Nancy, and the beautiful Easter -- all of whom seem to know more about Shadow than he himself does. Shadow will learn that the past does not die, that everyone, including his late wife, had secrets, and that the stakes are higher than anyone could have imagined. All around them a storm of epic proportions threatens to break. Soon Shadow and Wednesday will be swept up into a conflict as old as humanity itself. For beneath the placid surface of everyday life a war is being fought -- and the prize is the very soul of America. As unsettling as it is exhilarating, American Gods is a dark and kaleidoscopic journey deep into myth and across an America at once eerily familiar and utterly alien. Magnificently told, this work of literary magic will haunt the reader far beyond the final page.", 
-        "title": "American Gods"
+        "title": "American Gods", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "Adam Gordon is a brilliant, if highly unreliable, young American poet on a prestigious fellowship in Madrid, struggling to establish his sense of self and his relationship to art. What is actual when our experiences are mediated by language, technology, medication, and the arts? Is poetry an essential art form, or merely a screen for the reader's projections? Instead of following the dictates of his fellowship, Adam's \"research\" becomes a meditation on the possibility of the genuine in the arts and beyond: are his relationships with the people he meets in Spain as fraudulent as he fears his poems are? A witness to the 2004 Madrid train bombings and their aftermath, does he participate in historic events or merely watch them pass him by? In prose that veers between the comic and tragic, the self-contemptuous and the inspired, Leaving the Atocha Station is a portrait of the artist as a young man in an age of Google searches, pharmaceuticals, and spectacle. Born in Topeka, Kansas, in 1979, Ben Lerner is the author of three books of poetry The Lichtenberg Figures, Angle of Yaw, and Mean Free Path. He has been a finalist for the National Book Award and the Northern California Book Award, a Fulbright Scholar in Spain, and the recipient of a 2010-2011 Howard Foundation Fellowship. In 2011 he became the first American to win the Preis der Stadt M\u00fcnster f\u00fcr Internationale Poesie. Leaving the Atocha Station is his first novel.", 
+        "pageCount": 186, 
+        "publishedDate": "2011-08-23", 
         "industryIdentifiers": [
             {
                 "identifier": "9781566892926", 
@@ -138,12 +173,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "2011-08-23", 
         "authors": "Ben Lerner", 
-        "description": "Adam Gordon is a brilliant, if highly unreliable, young American poet on a prestigious fellowship in Madrid, struggling to establish his sense of self and his relationship to art. What is actual when our experiences are mediated by language, technology, medication, and the arts? Is poetry an essential art form, or merely a screen for the reader's projections? Instead of following the dictates of his fellowship, Adam's \"research\" becomes a meditation on the possibility of the genuine in the arts and beyond: are his relationships with the people he meets in Spain as fraudulent as he fears his poems are? A witness to the 2004 Madrid train bombings and their aftermath, does he participate in historic events or merely watch them pass him by? In prose that veers between the comic and tragic, the self-contemptuous and the inspired, Leaving the Atocha Station is a portrait of the artist as a young man in an age of Google searches, pharmaceuticals, and spectacle. Born in Topeka, Kansas, in 1979, Ben Lerner is the author of three books of poetry The Lichtenberg Figures, Angle of Yaw, and Mean Free Path. He has been a finalist for the National Book Award and the Northern California Book Award, a Fulbright Scholar in Spain, and the recipient of a 2010-2011 Howard Foundation Fellowship. In 2011 he became the first American to win the Preis der Stadt M\u00fcnster f\u00fcr Internationale Poesie. Leaving the Atocha Station is his first novel.", 
-        "title": "Leaving the Atocha Station"
+        "title": "Leaving the Atocha Station", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "Finalist for the National Book Award for Fiction \u201c[These stories] vibrate with originality, queerness, sensuality and the strange.\u201d\u2014Roxane Gay \u201cIn these formally brilliant and emotionally charged tales, Machado gives literal shape to women\u2019s memories and hunger and desire. I couldn\u2019t put it down.\u201d\u2014Karen Russell In Her Body and Other Parties, Carmen Maria Machado blithely demolishes the arbitrary borders between psychological realism and science fiction, comedy and horror, fantasy and fabulism. While her work has earned her comparisons to Karen Russell and Kelly Link, she has a voice that is all her own. In this electric and provocative debut, Machado bends genre to shape startling narratives that map the realities of women\u2019s lives and the violence visited upon their bodies. A wife refuses her husband\u2019s entreaties to remove the green ribbon from around her neck. A woman recounts her sexual encounters as a plague slowly consumes humanity. A salesclerk in a mall makes a horrifying discovery within the seams of the store\u2019s prom dresses. One woman\u2019s surgery-induced weight loss results in an unwanted houseguest. And in the bravura novella \u201cEspecially Heinous,\u201d Machado reimagines every episode of Law & Order: Special Victims Unit, a show we na\u00efvely assumed had shown it all, generating a phantasmagoric police procedural full of doppelg\u00e4ngers, ghosts, and girls with bells for eyes. Earthy and otherworldly, antic and sexy, queer and caustic, comic and deadly serious, Her Body and Other Parties swings from horrific violence to the most exquisite sentiment. In their explosive originality, these stories enlarge the possibilities of contemporary fiction.", 
+        "pageCount": 248, 
+        "publishedDate": "2017-10-03", 
         "industryIdentifiers": [
             {
                 "identifier": "9781555977887", 
@@ -154,12 +193,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "2017-10-03", 
         "authors": "Carmen Maria Machado", 
-        "description": "Finalist for the National Book Award for Fiction \u201c[These stories] vibrate with originality, queerness, sensuality and the strange.\u201d\u2014Roxane Gay \u201cIn these formally brilliant and emotionally charged tales, Machado gives literal shape to women\u2019s memories and hunger and desire. I couldn\u2019t put it down.\u201d\u2014Karen Russell In Her Body and Other Parties, Carmen Maria Machado blithely demolishes the arbitrary borders between psychological realism and science fiction, comedy and horror, fantasy and fabulism. While her work has earned her comparisons to Karen Russell and Kelly Link, she has a voice that is all her own. In this electric and provocative debut, Machado bends genre to shape startling narratives that map the realities of women\u2019s lives and the violence visited upon their bodies. A wife refuses her husband\u2019s entreaties to remove the green ribbon from around her neck. A woman recounts her sexual encounters as a plague slowly consumes humanity. A salesclerk in a mall makes a horrifying discovery within the seams of the store\u2019s prom dresses. One woman\u2019s surgery-induced weight loss results in an unwanted houseguest. And in the bravura novella \u201cEspecially Heinous,\u201d Machado reimagines every episode of Law & Order: Special Victims Unit, a show we na\u00efvely assumed had shown it all, generating a phantasmagoric police procedural full of doppelg\u00e4ngers, ghosts, and girls with bells for eyes. Earthy and otherworldly, antic and sexy, queer and caustic, comic and deadly serious, Her Body and Other Parties swings from horrific violence to the most exquisite sentiment. In their explosive originality, these stories enlarge the possibilities of contemporary fiction.", 
-        "title": "Her Body and Other Parties"
+        "title": "Her Body and Other Parties", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "Kiyoaki Matsugae's passionate and ill-fated love for the betrothed daughter of a Tokyo aristocrat brings him into disfavor at the Imperial Court", 
+        "pageCount": 389, 
+        "publishedDate": "1990", 
         "industryIdentifiers": [
             {
                 "identifier": "9780679722410", 
@@ -170,12 +213,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "1990", 
         "authors": "Yukio Mishima", 
-        "description": "Kiyoaki Matsugae's passionate and ill-fated love for the betrothed daughter of a Tokyo aristocrat brings him into disfavor at the Imperial Court", 
-        "title": "Spring Snow"
+        "title": "Spring Snow", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "An ode to George Orwell's \"1984\" told in alternating male and female voices relates the stories of Aomame, an assassin for a secret organization who discovers that she has been transported to an alternate reality, and Tengo, a mathematics lecturer and novice writer.", 
+        "pageCount": 925, 
+        "publishedDate": "2011", 
         "industryIdentifiers": [
             {
                 "identifier": "0307476464", 
@@ -186,12 +233,16 @@
                 "type": "ISBN_13"
             }
         ], 
-        "publishedDate": "2011", 
         "authors": "Haruki Murakami", 
-        "description": "An ode to George Orwell's \"1984\" told in alternating male and female voices relates the stories of Aomame, an assassin for a secret organization who discovers that she has been transported to an alternate reality, and Tengo, a mathematics lecturer and novice writer.", 
-        "title": "1Q84: October-December"
+        "title": "1Q84: October-December", 
+        "categories": [
+            "Japan"
+        ]
     }, 
     {
+        "description": "An unlikely alliance forms between Kafka Tamura, a fifteen-year-old runaway, and the aging Nakata, a man who has never recovered from a wartime affliction, as they embark on a surreal odyssey through a strange, fantastical world.", 
+        "pageCount": 467, 
+        "publishedDate": "2006-01", 
         "industryIdentifiers": [
             {
                 "identifier": "9781400079278", 
@@ -202,12 +253,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "2006-01", 
         "authors": "Haruki Murakami", 
-        "description": "An unlikely alliance forms between Kafka Tamura, a fifteen-year-old runaway, and the aging Nakata, a man who has never recovered from a wartime affliction, as they embark on a surreal odyssey through a strange, fantastical world.", 
-        "title": "Kafka on the Shore"
+        "title": "Kafka on the Shore", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "Tyrone Slothrop, a GI in London in 1944, is under suspicion by his superiors and soon on the run from enemies through Germany.", 
+        "pageCount": 776, 
+        "publishedDate": "1973", 
         "industryIdentifiers": [
             {
                 "identifier": "0143039946", 
@@ -218,12 +273,16 @@
                 "type": "ISBN_13"
             }
         ], 
-        "publishedDate": "1973", 
         "authors": "Thomas Pynchon", 
-        "description": "Tyrone Slothrop, a GI in London in 1944, is under suspicion by his superiors and soon on the run from enemies through Germany.", 
-        "title": "Gravity's Rainbow"
+        "title": "Gravity's Rainbow", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "The highly original satire about Oedipa Maas, a woman who finds herself enmeshed in a worldwide conspiracy, meets some extremely interesting characters, and attains a not inconsiderable amount of self knowledge.", 
+        "pageCount": 160, 
+        "publishedDate": "1986-01-22", 
         "industryIdentifiers": [
             {
                 "identifier": "9780060913076", 
@@ -234,12 +293,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "1986-01-22", 
         "authors": "Thomas Pynchon", 
-        "description": "The highly original satire about Oedipa Maas, a woman who finds herself enmeshed in a worldwide conspiracy, meets some extremely interesting characters, and attains a not inconsiderable amount of self knowledge.", 
-        "title": "The Crying of Lot 49"
+        "title": "The Crying of Lot 49", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "One of Vonnegut's most highly praised novels. Filled with humor and unforgettable characters, this apocalyptic story tells of Earth's ultimate end, and presents a vision of the future that is both darkly fantastic and funny, as Vonnegut weaves a satirical commentary on modern man and his madness.", 
+        "pageCount": 287, 
+        "publishedDate": "1998", 
         "industryIdentifiers": [
             {
                 "identifier": "0756990629", 
@@ -250,12 +313,16 @@
                 "type": "ISBN_13"
             }
         ], 
-        "publishedDate": "1998", 
         "authors": "Kurt Vonnegut", 
-        "description": "One of Vonnegut's most highly praised novels. Filled with humor and unforgettable characters, this apocalyptic story tells of Earth's ultimate end, and presents a vision of the future that is both darkly fantastic and funny, as Vonnegut weaves a satirical commentary on modern man and his madness.", 
-        "title": "Cat's Cradle"
+        "title": "Cat's Cradle", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "A gargantuan, mind-altering comedy about the Pursuit of Happiness in America Set in an addicts' halfway house and a tennis academy, and featuring the most endearingly screwed-up family to come along in recent fiction, Infinite Jest explores essential questions about what entertainment is and why it has come to so dominate our lives; about how our desire for entertainment affects our need to connect with other people; and about what the pleasures we choose say about who we are. Equal parts philosophical quest and screwball comedy, Infinite Jest bends every rule of fiction without sacrificing for a moment its own entertainment value. It is an exuberant, uniquely American exploration of the passions that make us human - and one of those rare books that renew the idea of what a novel can do.", 
+        "pageCount": 1104, 
+        "publishedDate": "2006-11-13", 
         "industryIdentifiers": [
             {
                 "identifier": "0316066524", 
@@ -266,12 +333,16 @@
                 "type": "ISBN_13"
             }
         ], 
-        "publishedDate": "2006-11-13", 
         "authors": "David Foster Wallace", 
-        "description": "A gargantuan, mind-altering comedy about the Pursuit of Happiness in America Set in an addicts' halfway house and a tennis academy, and featuring the most endearingly screwed-up family to come along in recent fiction, Infinite Jest explores essential questions about what entertainment is and why it has come to so dominate our lives; about how our desire for entertainment affects our need to connect with other people; and about what the pleasures we choose say about who we are. Equal parts philosophical quest and screwball comedy, Infinite Jest bends every rule of fiction without sacrificing for a moment its own entertainment value. It is an exuberant, uniquely American exploration of the passions that make us human - and one of those rare books that renew the idea of what a novel can do.", 
-        "title": "Infinite Jest"
+        "title": "Infinite Jest", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "A collection of short stories by David Foster Wallace that explore the different ways people live their lives.", 
+        "pageCount": 373, 
+        "publishedDate": "1996", 
         "industryIdentifiers": [
             {
                 "identifier": "0393313964", 
@@ -282,12 +353,16 @@
                 "type": "ISBN_13"
             }
         ], 
-        "publishedDate": "1996", 
         "authors": "David Foster Wallace", 
-        "description": "A collection of short stories by David Foster Wallace that explore the different ways people live their lives.", 
-        "title": "Girl with Curious Hair"
+        "title": "Girl with Curious Hair", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "A visionary, a craftsman, a comedian ... He can do anything with a piece of prose, and it is a humbling experience to see him go to work on what has passed up till now as 'modern fiction'. He's so modern he's in a different time-space continuum from the rest of us. Goddamn him' ZADIE SMITH A recognised master of form and a brilliant recorder of human behaviour, David Foster Wallace has been hailed as 'the most significant writer of his generation' (TLS). Each new book confirms and extends his genius, and this new short story collection is no exception. In the stories that make up OBLIVION, David Foster Wallace conjoins the rawest, most naked humanity with the infinite convolutions of self-consciousness - a combination that is dazzlingly, uniquely his. 'Wallace's talent is such that you can't help wondering: how good can he get?' TIME OUT", 
+        "pageCount": 336, 
+        "publishedDate": "2012-06-28", 
         "industryIdentifiers": [
             {
                 "identifier": "9781405521000", 
@@ -298,12 +373,16 @@
                 "type": "ISBN_10"
             }
         ], 
-        "publishedDate": "2012-06-28", 
         "authors": "David Foster Wallace", 
-        "description": "A visionary, a craftsman, a comedian ... He can do anything with a piece of prose, and it is a humbling experience to see him go to work on what has passed up till now as 'modern fiction'. He's so modern he's in a different time-space continuum from the rest of us. Goddamn him' ZADIE SMITH A recognised master of form and a brilliant recorder of human behaviour, David Foster Wallace has been hailed as 'the most significant writer of his generation' (TLS). Each new book confirms and extends his genius, and this new short story collection is no exception. In the stories that make up OBLIVION, David Foster Wallace conjoins the rawest, most naked humanity with the infinite convolutions of self-consciousness - a combination that is dazzlingly, uniquely his. 'Wallace's talent is such that you can't help wondering: how good can he get?' TIME OUT", 
-        "title": "Oblivion: Stories"
+        "title": "Oblivion: Stories", 
+        "categories": [
+            "Fiction"
+        ]
     }, 
     {
+        "description": "The agents at the IRS Regional Examination Center in Peoria, Illinois, appear ordinary enough to newly arrived trainee David Foster Wallace. But as he immerses himself in a routine so tedious and repetitive that new employees receive boredom-survival training, he learns of the extraordinary variety of personalities drawn to this strange calling. And he has arrived at a moment when forces within the IRS are plotting to eliminate even what little humanity and dignity the work still has. The Pale King remained unfinished at the time of David Foster Wallace's death, but it is a deeply compelling and satisfying novel, hilarious and fearless and as original as anything Wallace ever undertook. It grapples directly with ultimate questions--questions of life's meaning and of the value of work and society--through characters imagined with the interior force and generosity that were Wallace's unique gifts. Along the way it suggests a new idea of heroism and commands infinite respect for one of the most daring writers of our time.", 
+        "pageCount": 592, 
+        "publishedDate": "2012-04-10", 
         "industryIdentifiers": [
             {
                 "identifier": "0316074225", 
@@ -314,9 +393,10 @@
                 "type": "ISBN_13"
             }
         ], 
-        "publishedDate": "2012-04-10", 
         "authors": "David Foster Wallace", 
-        "description": "The agents at the IRS Regional Examination Center in Peoria, Illinois, appear ordinary enough to newly arrived trainee David Foster Wallace. But as he immerses himself in a routine so tedious and repetitive that new employees receive boredom-survival training, he learns of the extraordinary variety of personalities drawn to this strange calling. And he has arrived at a moment when forces within the IRS are plotting to eliminate even what little humanity and dignity the work still has. The Pale King remained unfinished at the time of David Foster Wallace's death, but it is a deeply compelling and satisfying novel, hilarious and fearless and as original as anything Wallace ever undertook. It grapples directly with ultimate questions--questions of life's meaning and of the value of work and society--through characters imagined with the interior force and generosity that were Wallace's unique gifts. Along the way it suggests a new idea of heroism and commands infinite respect for one of the most daring writers of our time.", 
-        "title": "The Pale King"
+        "title": "The Pale King", 
+        "categories": [
+            "Fiction"
+        ]
     }
 ]
