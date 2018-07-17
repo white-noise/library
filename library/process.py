@@ -7,17 +7,29 @@ import json
 
 #######################################
 
-data_f    = open("ex_data.txt", "r")
-raw_json  = data_f.read()
-isbn_f    = open("isbn_data.txt", "r")
-isbn_data  = isbn_f.read().split()
+error_mode = True
 
-json_data_full     = json.loads(raw_json)
-json_data_scrubbed = []
-fields     = ["title", "authors", "publishedDate", "description","industryIdentifiers", "pageCount", "categories"]
+if error_mode == True:
+	isbn_f    = open("bad_isbn.txt", "r")
+	isbn_data  = isbn_f.read().split()
+else:
+	isbn_f    = open("isbn_data_proper.txt", "r")
+	isbn_data  = isbn_f.read().split()
+
+data_f    = open("ex_data_proper.txt", "r")
+raw_json  = data_f.read()
 
 data_f.close()
 isbn_f.close()
+
+json_data_full     = json.loads(raw_json)
+json_data_scrubbed = []
+fields             = ["title", "authors", "publishedDate", "description", "industryIdentifiers", "pageCount", "categories"]
+
+print "\ntotal books: %s\n"%(len(json_data_full))
+book_count = 0
+
+# bad_isbn_f = open("bad_isbn.txt", "w")
 
 for i in range(len(json_data_full)):
 
@@ -32,6 +44,7 @@ for i in range(len(json_data_full)):
 		volume = json_data["items"][0]["volumeInfo"]
 	except KeyError:
 		print "The key you were looking for wasn't found for isbn: %s"%(current_isbn)
+		# bad_isbn_f.write(str(current_isbn) + "\n")
 		volume = None
 
 	# only add books to registry that are found to have volume info
@@ -49,30 +62,37 @@ for i in range(len(json_data_full)):
 				else:
 					scrub_data[elem] = volume[elem]
 			except KeyError:
-				print "No field found: %s."%(elem)
+				print "\tNo field found: %s. for isbn %s"%(elem, str(current_isbn))
+				# bad_isbn_f.write(str(current_isbn) + "\n")
 				# if not everything is valid, abort
-				total_info = False
+				scrub_data[elem] = ""
+
+				total_info = True
 
 		if total_info:
 			json_data_scrubbed.append(scrub_data)
+			book_count = book_count + 1
 		else:
 			continue
 	else:
 		continue
 
 # sort according to last name
-json_data_scrubbed = sorted(json_data_scrubbed,key=lambda elem: elem["authors"].split()[-1][0])
+# json_data_scrubbed = sorted(json_data_scrubbed,key=lambda elem: elem["authors"].split()[-1][0])
 
 for elem in json_data_scrubbed:
 	print "----------------------------------------"
 	for field in fields:
 		if field == "title" or field == "authors":
-			print "%s : %s\n"%(field, elem[field])
+			print "%s : %s"%(field, elem[field])
 		else:
 			continue
 
+print "\nsuccessful books: %s\n"%(book_count)
+
 # turn back into a nice json
 json_return = json.dumps(json_data_scrubbed, indent=4)
-return_f    = open("scrubbed_data.json", "w")
+return_f    = open("scrubbed_data_proper.json", "w")
 return_f.write(json_return)
 return_f.close()
+# bad_isbn_f.close()
