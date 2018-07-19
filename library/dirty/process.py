@@ -7,14 +7,14 @@ import json
 
 #######################################
 
-error_mode = True
+error_mode = False
 
 if error_mode == True:
 	isbn_f    = open("bad_isbn.txt", "r")
-	isbn_data  = isbn_f.read().split()
+	isbn_data = isbn_f.read().split()
 else:
 	isbn_f    = open("isbn_data_proper.txt", "r")
-	isbn_data  = isbn_f.read().split()
+	isbn_data = isbn_f.read().split()
 
 data_f    = open("ex_data_proper.txt", "r")
 raw_json  = data_f.read()
@@ -26,10 +26,9 @@ json_data_full     = json.loads(raw_json)
 json_data_scrubbed = []
 fields             = ["title", "authors", "publishedDate", "description", "industryIdentifiers", "pageCount", "categories"]
 
-print "\ntotal books: %s\n"%(len(json_data_full))
 book_count = 0
 
-# bad_isbn_f = open("bad_isbn.txt", "w")
+bad_isbn_f = open("bad_isbn.txt", "w")
 
 for i in range(len(json_data_full)):
 
@@ -44,7 +43,7 @@ for i in range(len(json_data_full)):
 		volume = json_data["items"][0]["volumeInfo"]
 	except KeyError:
 		print "The key you were looking for wasn't found for isbn: %s"%(current_isbn)
-		# bad_isbn_f.write(str(current_isbn) + "\n")
+		bad_isbn_f.write(str(current_isbn) + "\n")
 		volume = None
 
 	# only add books to registry that are found to have volume info
@@ -88,6 +87,7 @@ for elem in json_data_scrubbed:
 		else:
 			continue
 
+print "\ntotal books: %s\n"%(len(json_data_full))
 print "\nsuccessful books: %s\n"%(book_count)
 
 # turn back into a nice json
